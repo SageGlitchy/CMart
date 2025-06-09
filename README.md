@@ -18,7 +18,7 @@ A modern e-commerce marketplace built with Next.js, TypeScript, and Tailwind CSS
 ## Prerequisites
 
 - Node.js (Latest LTS version recommended)
-- pnpm (Package manager)
+- npm (Package manager)
 
 ## Getting Started
 
@@ -30,22 +30,22 @@ cd cmart-marketplace
 
 2. Install dependencies:
 ```bash
-pnpm install
+npm install
 ```
 
 3. Run the development server:
 ```bash
-pnpm dev
+npm dev
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Available Scripts
 
-- `pnpm dev` - Start the development server
-- `pnpm build` - Build the application for production
-- `pnpm start` - Start the production server
-- `pnpm lint` - Run ESLint to check code quality
+- `npm dev` - Start the development server
+- `npm build` - Build the application for production
+- `npm start` - Start the production server
+- `npm lint` - Run ESLint to check code quality
 
 ## Project Structure
 
