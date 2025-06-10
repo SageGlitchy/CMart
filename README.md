@@ -8,7 +8,7 @@ A modern e-commerce marketplace built with Next.js, TypeScript, and Tailwind CSS
 - 💻 TypeScript for type safety
 - 🎨 Tailwind CSS for styling
 - 📱 Responsive design
-- 🎯 Modern UI components with Radix UI
+- 🎯 Modern UI components 
 - 🌙 Dark mode support
 - 📊 Data visualization with Recharts
 - 🎭 Animations with Framer Motion
