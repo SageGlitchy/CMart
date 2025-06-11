@@ -1,4 +1,4 @@
-# CMart Marketplace
+# CMart MarketplaceMore actions
 
 A modern e-commerce marketplace built with Next.js, TypeScript, and Tailwind CSS.
 
@@ -9,6 +9,9 @@ A modern e-commerce marketplace built with Next.js, TypeScript, and Tailwind CSS
 - 🎨 Tailwind CSS for styling
 - 📱 Responsive design
 - 🎯 Modern UI components 
+- 🌙 Dark mode support
+- 📊 Data visualization with Recharts
+- 📝 Form handling with React Hook Form
 
 ## Prerequisites
 
@@ -59,6 +62,10 @@ cmart-marketplace/
 - **Framework**: Next.js 15
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
+- **UI Components**: Radix UI
+- **State Management**: React Hooks
+- **Animations**: Framer Motion
+- **Charts**: Recharts
 - **Date Handling**: date-fns
 - **Icons**: Lucide React
 
