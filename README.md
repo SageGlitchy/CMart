@@ -9,9 +9,6 @@ A modern e-commerce marketplace built with Next.js, TypeScript, and Tailwind CSS
 - 🎨 Tailwind CSS for styling
 - 📱 Responsive design
 - 🎯 Modern UI components 
-- 🌙 Dark mode support
-- 📊 Data visualization with Recharts
-- 🎭 Animations with Framer Motion
 
 ## Prerequisites
 
