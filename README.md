@@ -12,8 +12,6 @@ A modern e-commerce marketplace built with Next.js, TypeScript, and Tailwind CSS
 - 🌙 Dark mode support
 - 📊 Data visualization with Recharts
 - 🎭 Animations with Framer Motion
-- 📝 Form handling with React Hook Form
-- ✅ Form validation with Zod
 
 ## Prerequisites
 
