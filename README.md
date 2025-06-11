@@ -59,11 +59,6 @@ cmart-marketplace/
 - **Framework**: Next.js 15
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **UI Components**: Radix UI
-- **Form Handling**: React Hook Form + Zod
-- **State Management**: React Hooks
-- **Animations**: Framer Motion
-- **Charts**: Recharts
 - **Date Handling**: date-fns
 - **Icons**: Lucide React
 
